@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MiggiV2.
 - 👀 I’m full stack web developer.
 - 🌱 I’m currently learning vue.js and to design UIs.
-- 📫 You can reach me over Dicord -> Miggi#9895
+- 📫 You can reach me over Discord -> Miggi#9895
