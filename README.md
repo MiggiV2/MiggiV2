@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiggiV2.
 - 👀 I’m full stack web developer.
-- 🌱 I’m currently learning vue.js to design UIs.
+- 🌱 I’m currently studding computer since in Germany!
 - 📫 You can reach me over Discord -> Miggi#9895
 
 I'm also on Mastodon
