@@ -3,4 +3,4 @@
 - 🌱 I’m currently studding computer science in Germany!
 
 I'm also on Mastodon
--> <a rel="me" href="https://fosstodon.org/@miggi">@miggi</a>
+-> <a rel="me" href="https://social.mymiggi.de/@miggi">@miggi</a>
